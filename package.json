@@ -1,0 +1,28 @@
+{
+  "name": "business-card-contacts",
+  "version": "1.0.0",
+  "description": "A utility to convert a string of text generated from business card OCR to new contact",
+  "main": "index.js",
+  "dependencies": {
+    "nlp_compromise": "^4.10.5"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yisbecker/business-card-contacts.git"
+  },
+  "keywords": [
+    "business",
+    "card",
+    "ocr",
+    "contacts"
+  ],
+  "author": "Yi Becker <yisbecker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yisbecker/business-card-contacts/issues"
+  },
+  "homepage": "https://github.com/yisbecker/business-card-contacts#readme"
+}
